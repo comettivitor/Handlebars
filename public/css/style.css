@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(46, 46, 46);
+    color: aliceblue;
+}
+
+nav{
+    text-align: center;
+    border-bottom: 1px solid white;
+}
+
+footer{
+    text-align: end;
+    border-top: 1px solid white;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
